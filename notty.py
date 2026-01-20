@@ -6,15 +6,15 @@ from telethon.tl.types import DocumentAttributeVideo
 from PIL import Image
 
 # ---------------- CONFIG ----------------
-api_id = 123456890
-api_hash = ""
+api_id = 25649636
+api_hash = "43af470d1c625e603733268b3c2f7b8f"
 
 session_name = "corning_session"
 
-target_channel_id = -100xxxxxxx
-output_channel_id = -100xxxxxxx
+target_channel_id = -1003686329448
+output_channel_id = -1003667149225
 
-genlink_bot_username = "@YOUR_GENLINK_BOT"   # <<< SET THIS
+genlink_bot_username = "@Testsrpbot"   # <<< SET THIS
 
 media_folder = "media_temp"
 overlay_path = "watermark.png"
